@@ -3,6 +3,11 @@
 This is an end-to-end **Generative AI solution** that uses **web scraping** and **Retrieval-Augmented Generation (RAG)** to help users ask natural language questions about restaurants in **Kanpur** and receive contextual, accurate answers.
 
 ---
+## Demo
+
+Watch the working demo here:  [Zomato RAG Chatbot - Demo Video](https://youtu.be/aCc9nFiiuYk)
+
+---
 
 ## Features
 
